@@ -1,5 +1,5 @@
 <h1 align="center">IPScore</h1>
-<h4 align="center">IP score, fraud, information scanner</h4>
+<h4 align="center">IP score, fraud & information scanner</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/IPScore/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/IPScore?style=flat-square"></img></a>
 	<a href="https://github.com/I2rys/IPScore/issues"><img src="https://img.shields.io/github/issues/I2rys/IPScore.svg"></img></a>
